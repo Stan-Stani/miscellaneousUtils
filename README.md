@@ -31,4 +31,6 @@ else
     fi
 fi
 exit 0
+
+Courtesy Claude Sonnet 3.5 with testing and prompting by Stan
 ```
